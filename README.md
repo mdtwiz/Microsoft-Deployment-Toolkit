@@ -1,7 +1,7 @@
 # Download Microsoft Deployment Toolkit (MDT)
 
 Download latest version from Releases:       
-https://github.com/mdtkit/Microsoft-Deployment-Toolkit/releases/tag/8456
+https://github.com/mdtbase/Microsoft-Deployment-Toolkit/releases/tag/8456
 
 ## Introduction
 
@@ -11,4 +11,4 @@ For advanced scenarios, MDT supports robust customization through CustomSettings
 
 MDT operates in Lite Touch Installation (LTI) mode for guided deployments and can be combined with Microsoft Configuration Manager for Zero Touch Installation (ZTI) workflows. This makes it suitable for labs, enterprise rollouts, refresh scenarios, and bare-metal provisioning. Its logging, monitoring, and modular step design help troubleshoot deployments and validate changes quickly.
 
-In skilled hands, MDT is an efficient engineering toolkit: rapidly prototype workflows, execute reliable imaging pipelines, and streamline deployment—all with minimal overhead.
+When used by experts, MDT serves as a lean engineering toolkit, enabling users to quickly craft task sequences, run predictable imaging processes, and maintain tightly controlled deployment artifacts—all with remarkable ease.
